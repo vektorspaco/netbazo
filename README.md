@@ -106,7 +106,6 @@ PowerShell -ExecutionPolicy Bypass -File scripts\powershell\Organize.ps1 `
 # 5) Dedup cruzado (PowerShell, mismos parámetros)
 PowerShell -ExecutionPolicy Bypass -File scripts\powershell\Dedupe.ps1 `
   -Root "X:\" -PlanDir "X:\ORGANIZADO_PLAN"
-```
 
 Cada script es **resumible** — lo cortás con Ctrl+C, lo volvés a lanzar y continúa donde quedó (state.json + done.txt).
 
