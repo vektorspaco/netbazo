@@ -14,7 +14,7 @@ Una corrida end-to-end sobre el disco del autor:
 
 - **303 GiB** totales
 - **57.157 archivos**
-- **5 backups solapados** de orígenes distintos (PC viejo, celular Pixel 7, ordenamientos parciales previos, Google Takeout)
+- **5 backups solapados** de orígenes distintos (PC viejo, smartphone android, ordenamientos parciales previos, Google Takeout)
 - **Paths reales**: con tildes, espacios, `[`, `;`, caracteres Unicode varios, nombres largos
 - **Resultado**:
   - 51.091 archivos copiados
