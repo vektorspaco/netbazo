@@ -83,5 +83,31 @@ Detalle completo en [ESTADO.md](ESTADO.md): qué se probó, qué no se probó, s
 - Bash (Git Bash / WSL) para el inventario inicial
 
 ### Pasos (v0.1, con adaptación manual de paths)
+powershell
 
-```powershell
+# 0) Adaptar scripts/python/classify.py:
+#    - cambiar los nombres de carpeta fuente esperados
+#    - cambiar los anchors Windows-style si tu Windows está en otro idioma
+#    - chequear la whitelist HARD_ATOMIC contra tus carpetas
+
+# 1) Inventariar (Linux / WSL / Git Bash, parado en la raíz)
+bash scripts/python/inventory.sh "/path/a/tu/disco" inventory.tsv
+
+# 2) Clasificar (genera classification.csv)
+python3 scripts/python/classify.py --inventory inventory.tsv --out classification.csv
+
+# 3) Revisar la clasificación (opcional pero recomendado)
+#    Mirá classification.csv en LibreOffice / Excel: cada fila es un archivo y dest.
+
+# 4) Copiar (PowerShell, ajustar -Root y -PlanDir)
+PowerShell -ExecutionPolicy Bypass -File scripts\powershell\Organize.ps1 `
+  -Root "X:\" -PlanDir "X:\ORGANIZADO_PLAN"
+
+# 5) Dedup cruzado (PowerShell, mismos parámetros)
+PowerShell -ExecutionPolicy Bypass -File scripts\powershell\Dedupe.ps1 `
+  -Root "X:\" -PlanDir "X:\ORGANIZADO_PLAN"
+```
+
+Cada script es **resumible** — lo cortás con Ctrl+C, lo volvés a lanzar y continúa donde quedó (state.json + done.txt).
+
+Si preferís doble-click, los `.bat` lanzadores asumen `F:\` (autor); si tu disco es otra letra, editar el .bat o usar PowerShell directo con `-Root`.
