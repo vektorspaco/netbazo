@@ -50,6 +50,12 @@ F:\ORGANIZADO\
 
 Más con `Dedupe.ps1`: típicamente decenas de GiB adicionales por clones cruzados (fotos del celular replicadas en múltiples backups, etc.).
 
+## Estado · vibe coded, probado, sin auditar
+
+Netbazo es **vibe-coded software**: construido en diálogo iterativo con AI sobre datos reales del autor. **Probado** en una corrida end-to-end (51.091 archivos / 297 GiB / 0 errores). **No auditado** profesionalmente. **Sin garantía**.
+
+Detalle completo en [ESTADO.md](ESTADO.md): qué se probó, qué no se probó, safety net del invariante "originales solo-lectura", invitación a peer review, y estado por componente.
+
 ## Cómo usarlo
 
 ### Requisitos
