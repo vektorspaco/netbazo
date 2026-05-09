@@ -2,7 +2,7 @@
 
 > Sysadmin script con vocación de álgebra lineal: toma tu disco hecho un quilombo de backups solapados y te devuelve la **base** — el conjunto mínimo de archivos linealmente independientes (sin clones exactos) que **generan** todo lo que tenías, ordenado en carpetas Windows-style.
 
-**English summary** — `netbazo` ("net + *bazo*", *bazo* being Esperanto for *basis*) is a sysadmin tool with a linear-algebra heart: it takes a messy span of overlapping backups and reduces it to a minimal basis — the *net basis*, what's left after filtering linearly dependent vectors. It scans `F:\` (or any root), classifies every file into a clean Windows-style tree (`PC\Documents`, `PC\Pictures`, `MOBILE\Camera`, etc.), copies them with on-collision SHA-1 dedup, and runs a final cross-tree dedup pass. Originals are never touched.
+**English summary** — `netbazo` ("net + *bazo*", *bazo* being Esperanto for *basis*) is a sysadmin tool with a linear-algebra heart: it takes a messy span of overlapping backups and reduces it to a minimal basis — the *net basis*, what's left after filtering linearly dependent vectors. It scans `F:\` (or any folder), classifies every file into a clean Windows-style tree (`PC\Documents`, `PC\Pictures`, `MOBILE\Camera`, etc.), copies them with on-collision SHA-1 dedup, and runs a final cross-tree dedup pass. Originals are never touched.
 
 ---
 
