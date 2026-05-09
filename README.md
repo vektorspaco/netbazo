@@ -8,7 +8,7 @@
 
 ## ¿Qué hace?
 
-Tomás tu disco con varios backups parciales encimados (un pendrive viejo, una carpeta `Nueva carpeta`, un `Takeout` de Google, un `(backup celu)`, otra `Nueva carpeta (2)`, etc.). El script:
+Tomás tu disco (F:) con varios backups parciales encimados (un pendrive viejo, una carpeta `Nueva carpeta`, un `Takeout` de Google, un `(backup celu)`, otra `Nueva carpeta (2)`, etc.). El script:
 
 1. **Inventaria** todo en un TSV.
 2. **Clasifica** cada archivo a una estructura Windows-style unificada (mergeando las múltiples fuentes de PC en una sola jerarquía `Documents/`, `Downloads/`, `Pictures/`, etc.) con detección de **unidades atómicas** (carpetas tipo `PCSX2/`, `FalkonPortable/`, mirrors de sitio web) que viajan enteras.
