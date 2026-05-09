@@ -1,0 +1,74 @@
+﻿Size,Source,Dest,Rule
+17305143594,Takeout\takeout-20231208T194859Z-001.tgz,ARCHIVOS\Takeout\takeout-20231208T194859Z-001.tgz,takeout
+3143687347,Takeout\takeout-20231208T194859Z-002.tgz,ARCHIVOS\Takeout\takeout-20231208T194859Z-002.tgz,takeout
+11900220641,"Takeout\Todo el correo, incluido Spam y Papelera-002.mbox","ARCHIVOS\Takeout\Todo el correo, incluido Spam y Papelera-002.mbox",takeout
+526659289,Takeout\takeout-20231129T200408Z-009.zip,ARCHIVOS\Takeout\takeout-20231129T200408Z-009.zip,takeout
+888208,Nueva Carpeta (C)\(backup celu)\Android\data\app.organicmaps\files\icudt70l.dat,MOBILE\AndroidData\data\app.organicmaps\files\icudt70l.dat,mobile-anchor-AndroidData
+76276707,Nueva Carpeta (C)\(backup celu)\Android\data\app.organicmaps\files\230503\Argentina_Patagonia.mwm,MOBILE\AndroidData\data\app.organicmaps\files\230503\Argentina_Patagonia.mwm,mobile-anchor-AndroidData
+98203802,Nueva Carpeta (C)\(backup celu)\Android\data\app.organicmaps\files\230503\Chile_Central.mwm,MOBILE\AndroidData\data\app.organicmaps\files\230503\Chile_Central.mwm,mobile-anchor-AndroidData
+158272761,Nueva Carpeta (C)\(backup celu)\Android\data\app.organicmaps\files\230503\Chile_South.mwm,MOBILE\AndroidData\data\app.organicmaps\files\230503\Chile_South.mwm,mobile-anchor-AndroidData
+3842105,Nueva Carpeta (C)\(backup celu)\DCIM\Camera\IMG_20230512_230355_342.jpg,MOBILE\Camera\IMG_20230512_230355_342.jpg,mobile-anchor-Camera
+3879434,Nueva Carpeta (C)\(backup celu)\DCIM\Camera\IMG_20230512_230401_462.jpg,MOBILE\Camera\IMG_20230512_230401_462.jpg,mobile-anchor-Camera
+1785313,Nueva Carpeta (C)\(backup celu)\DCIM\Camera\PXL_20230513_020042277.NIGHT.jpg,MOBILE\Camera\PXL_20230513_020042277.NIGHT.jpg,mobile-anchor-Camera
+2013829,Nueva Carpeta (C)\(backup celu)\DCIM\Camera\PXL_20230513_020110528.NIGHT.jpg,MOBILE\Camera\PXL_20230513_020110528.NIGHT.jpg,mobile-anchor-Camera
+5878,Nueva Carpeta (C)\(backup celu)\Documents\belseth.braulio@betaX.com__ssl_vpn_config.ovpn,MOBILE\Documents\belseth.braulio@betaX.com__ssl_vpn_config.ovpn,mobile-anchor-Documents
+448835,Nueva Carpeta (C)\(backup celu)\IMG_20230513_123959_HDR.7z,MOBILE\Downloads\IMG_20230513_123959_HDR.7z,mobile-loose-Downloads
+141898,Nueva Carpeta (C)\(backup celu)\Download\-5886218100842545176_121.jpg,MOBILE\Downloads\-5886218100842545176_121.jpg,mobile-anchor-Downloads
+33739,Nueva Carpeta (C)\(backup celu)\Download\01.png,MOBILE\Downloads\01.png,mobile-anchor-Downloads
+36812,Nueva Carpeta (C)\(backup celu)\Download\02.png,MOBILE\Downloads\02.png,mobile-anchor-Downloads
+1335000,Nueva Carpeta (C)\(backup celu)\EditedOnlinePhotos\IMG_20230814_161032.jpg,MOBILE\Pictures\IMG_20230814_161032.jpg,mobile-anchor-Pictures
+38025,Nueva Carpeta (C)\(backup celu)\EditedOnlinePhotos\IMG_20231019_221335.jpg,MOBILE\Pictures\IMG_20231019_221335.jpg,mobile-anchor-Pictures
+25337,Nueva Carpeta (C)\(backup celu)\EditedOnlinePhotos\IMG_20231124_125919.jpg,MOBILE\Pictures\IMG_20231124_125919.jpg,mobile-anchor-Pictures
+332706,Nueva Carpeta (C)\(backup celu)\Pictures\344e704d-8356-4a52-bdf3-99c2cf06b14e.cda2367e2af64db55e041a07685117fb-3751571725.jpeg,MOBILE\Pictures\344e704d-8356-4a52-bdf3-99c2cf06b14e.cda2367e2af64db55e041a07685117fb-3751571725.jpeg,mobile-anchor-Pictures
+33775640,Nueva Carpeta (C)\(backup celu)\Movies\screen-20230512-223028.mp4,MOBILE\Videos\screen-20230512-223028.mp4,mobile-anchor-Videos
+13509462,Nueva Carpeta (C)\(backup celu)\Movies\screen-20230513-144855.mp4,MOBILE\Videos\screen-20230513-144855.mp4,mobile-anchor-Videos
+176872478,Nueva Carpeta (C)\(backup celu)\Movies\screen-20230513-145025.mp4,MOBILE\Videos\screen-20230513-145025.mp4,mobile-anchor-Videos
+195513353,Nueva Carpeta (C)\(backup celu)\Movies\screen-20230522-174741.mp4,MOBILE\Videos\screen-20230522-174741.mp4,mobile-anchor-Videos
+1497926,"80gb sata\Downloads\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Riders of the Purple Wage - 1992.epub","PC\Books\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Riders of the Purple Wage - 1992.epub",atomic-Books-Bundle
+388076,"80gb sata\Downloads\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Riverworld and Other Stories - 1979.epub","PC\Books\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Riverworld and Other Stories - 1979.epub",atomic-Books-Bundle
+1287945,"80gb sata\Downloads\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Strange Relations - 2006.fb2","PC\Books\Farmer, Philip Jose\Collections\Farmer, Philip Jose - Strange Relations - 2006.fb2",atomic-Books-Bundle
+695372,"80gb sata\Downloads\Farmer, Philip Jose\Collections\Farmer, Philip Jose - The Book of Philip Jose Farmer - 1982.fb2","PC\Books\Farmer, Philip Jose\Collections\Farmer, Philip Jose - The Book of Philip Jose Farmer - 1982.fb2",atomic-Books-Bundle
+494,80gb sata\Downloads\magento2-btcpay-module\composer.json,PC\Code\magento2-btcpay-module\composer.json,atomic-Code
+5379,80gb sata\Downloads\magento2-btcpay-module\README.md,PC\Code\magento2-btcpay-module\README.md,atomic-Code
+148,80gb sata\Downloads\magento2-btcpay-module\registration.php,PC\Code\magento2-btcpay-module\registration.php,atomic-Code
+5,80gb sata\Downloads\magento2-btcpay-module\VERSION,PC\Code\magento2-btcpay-module\VERSION,atomic-Code
+2487893,Nueva Carpeta (C)\Nueva carpeta\Desktop\520062403_SCN83_USD_Variant_HS.zip,PC\Desktop\520062403_SCN83_USD_Variant_HS.zip,anchor-Desktop
+2472,Nueva Carpeta (C)\Nueva carpeta\Desktop\balenaEtcher.lnk,PC\Desktop\balenaEtcher.lnk,anchor-Desktop
+17616,Nueva Carpeta (C)\Nueva carpeta\Desktop\Config_DESKTOP-UD90VOT_20200101_1247.dc,PC\Desktop\Config_DESKTOP-UD90VOT_20200101_1247.dc,anchor-Desktop
+222,Nueva Carpeta (C)\Nueva carpeta\Desktop\Crypt of the NecroDancer.url,PC\Desktop\Crypt of the NecroDancer.url,anchor-Desktop
+574,80gb sata\Temp\civ\RiverWorld\ReadMe.txt,PC\Documents\Temp\civ\RiverWorld\ReadMe.txt,loose-Documents
+725,80gb sata\Temp\civ\riverworld_2\readme.txt,PC\Documents\Temp\civ\riverworld_2\readme.txt,loose-Documents
+120,80gb sata\Temp\civ\riverworld_new\readme.txt,PC\Documents\Temp\civ\riverworld_new\readme.txt,loose-Documents
+28963,80gb sata\Temp\Ficha-2010-CHYF-Superreducida\Ficha-2010-Superreducida.pdf,PC\Documents\Temp\Ficha-2010-CHYF-Superreducida\Ficha-2010-Superreducida.pdf,loose-Documents
+12338,80gb sata\Temp\civ\RiverWorld.zip,PC\Downloads\Temp\civ\RiverWorld.zip,loose-Downloads
+329726,80gb sata\Temp\civ\riverworld_2.zip,PC\Downloads\Temp\civ\riverworld_2.zip,loose-Downloads
+5382,80gb sata\Temp\civ\riverworld_3.zip,PC\Downloads\Temp\civ\riverworld_3.zip,loose-Downloads
+68233,80gb sata\Temp\civ\riverworld_new.zip,PC\Downloads\Temp\civ\riverworld_new.zip,loose-Downloads
+228747,80gb sata\Downloads\M5Stack-nesemu-master\firmware.zip,PC\Games\M5Stack-nesemu-master\firmware.zip,atomic-Games
+198,80gb sata\Downloads\M5Stack-nesemu-master\flashrom.sh,PC\Games\M5Stack-nesemu-master\flashrom.sh,atomic-Games
+178,80gb sata\Downloads\M5Stack-nesemu-master\Makefile,PC\Games\M5Stack-nesemu-master\Makefile,atomic-Games
+320,80gb sata\Downloads\M5Stack-nesemu-master\partitions.csv,PC\Games\M5Stack-nesemu-master\partitions.csv,atomic-Games
+84,Nueva Carpeta (C)\Nueva carpeta\Music\desktop.ini,PC\Music\desktop.ini,anchor-Music
+4809489,ORDENAR\User\3D Objects\Sounds\20190914_122154.m4a,PC\Music\User\3D Objects\Sounds\20190914_122154.m4a,loose-Music
+138721,ORDENAR\User\3D Objects\Sounds\20190914_123001.m4a,PC\Music\User\3D Objects\Sounds\20190914_123001.m4a,loose-Music
+1121565,ORDENAR\User\3D Objects\Sounds\Ken-Wilber-on-2nd-Tier.mp3,PC\Music\User\3D Objects\Sounds\Ken-Wilber-on-2nd-Tier.mp3,loose-Music
+90671,80gb sata\Temp\civ\RiverWorld\RiverWorld-poor.Civ5Map,PC\Other\Temp\civ\RiverWorld\RiverWorld-poor.Civ5Map,loose-Other
+90671,80gb sata\Temp\civ\RiverWorld\RiverWorld-random.Civ5Map,PC\Other\Temp\civ\RiverWorld\RiverWorld-random.Civ5Map,loose-Other
+67010,80gb sata\Temp\civ\riverworld_2\riverworld_b modified.biq,PC\Other\Temp\civ\riverworld_2\riverworld_b modified.biq,loose-Other
+67342,80gb sata\Temp\civ\riverworld_2\riverworld_b.biq,PC\Other\Temp\civ\riverworld_2\riverworld_b.biq,loose-Other
+343585,80gb sata\Temp\casita loca\0934d6eb6a084fa1c79dd651a032a857.jpg,PC\Pictures\Temp\casita loca\0934d6eb6a084fa1c79dd651a032a857.jpg,loose-Pictures
+333903,80gb sata\Temp\casita loca\290aeeeef0789bd1c5c099c89245c2e5.jpg,PC\Pictures\Temp\casita loca\290aeeeef0789bd1c5c099c89245c2e5.jpg,loose-Pictures
+335441,80gb sata\Temp\casita loca\4e0035606c98f6714bd3b219ec1756dc.jpg,PC\Pictures\Temp\casita loca\4e0035606c98f6714bd3b219ec1756dc.jpg,loose-Pictures
+310215,80gb sata\Temp\casita loca\5e2fe788992c995232f098e394208850.jpg,PC\Pictures\Temp\casita loca\5e2fe788992c995232f098e394208850.jpg,loose-Pictures
+4243,80gb sata\Mis lugares Web\backblue.gif,PC\Sites\Mis lugares Web\backblue.gif,atomic-Sites
+0,80gb sata\Mis lugares Web\donjon.bin.sh.whtt,PC\Sites\Mis lugares Web\donjon.bin.sh.whtt,atomic-Sites
+828,80gb sata\Mis lugares Web\fade.gif,PC\Sites\Mis lugares Web\fade.gif,atomic-Sites
+5234,80gb sata\Mis lugares Web\index.html,PC\Sites\Mis lugares Web\index.html,atomic-Sites
+74553,80gb sata\Temp\GURPSNPCGEN\AsycFilt.dl_,PC\Software\GURPSNPCGEN\AsycFilt.dl_,atomic-Software
+10146,80gb sata\Temp\GURPSNPCGEN\ComCat.dl_,PC\Software\GURPSNPCGEN\ComCat.dl_,atomic-Software
+315585,80gb sata\Temp\GURPSNPCGEN\COMCTL32.OC_,PC\Software\GURPSNPCGEN\COMCTL32.OC_,atomic-Software
+66924,80gb sata\Temp\GURPSNPCGEN\COMDLG32.OC_,PC\Software\GURPSNPCGEN\COMDLG32.OC_,atomic-Software
+43858818,80gb sata\Temp\pendrive publi\VID_20171124_151651.mp4,PC\Videos\Temp\pendrive publi\VID_20171124_151651.mp4,loose-Videos
+24129268,80gb sata\Temp\pendrive publi\VID_20181218_203948.mp4,PC\Videos\Temp\pendrive publi\VID_20181218_203948.mp4,loose-Videos
+84,80gb sata\Videos\desktop.ini,PC\Videos\desktop.ini,anchor-Videos
+462911712,80gb sata\Videos\123.avi,PC\Videos\123.avi,anchor-Videos

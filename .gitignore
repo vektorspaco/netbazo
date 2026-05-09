@@ -1,0 +1,41 @@
+# Estado de corrida — específico al disco del usuario, no se versiona
+state.json
+done.txt
+log_*.tsv
+log_*.csv
+
+# Inventarios y clasificaciones generadas (cada usuario tiene la suya)
+classification.csv
+classification.tsv
+inventory.tsv
+inventory.err
+candidates.tsv
+candidates_abs.tsv
+hashes.tsv
+copy_done.txt
+copy_state.json
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas de ejecución del usuario
+ORGANIZADO/
+ORGANIZADO_PLAN/
+_DUPLICADOS/
+
+# Logs grandes
+*.log
